@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently in my second year studying **Software Engineering**
+- 🌱 I’m currently in my third year studying **Software Engineering**
 
 - 📫 You can reach me  at **l237zhan@uwaterloo.ca**
 
